@@ -108,7 +108,7 @@ with col_graf1:
             color_continuous_scale=px.colors.sequential.Viridis
         )
         grafico_empresas.update_layout(
-            title_x=0.1,
+            title_x=0.25,
             geo=dict(showframe=False, showcoastlines=True, projection_type='equirectangular')
         )
         st.plotly_chart(grafico_empresas, use_container_width=True)
@@ -129,6 +129,7 @@ with col_graf2:
 
     else:
         st.write('Nenhum dado disponível para o gráfico de média salarial anual por país e moeda local.')
+
 
 
 
