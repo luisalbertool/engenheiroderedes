@@ -118,12 +118,14 @@ with col_graf1:
 
 with col_graf2:
     if not df_filtrado.empty:
-        fig2 = px.bar(media_anual, x='pais', y='salario_medio_usd',
+        fig2 = px.bar(media_anual, x='pais', y='salario_medio_usd', width=800, height=400,
             color='pais',
             title='Média Salarial Mensal por País',
             labels= {'media_anual': 'Média Salarial (USD)', 'pais': 'País', 'salario_medio_usd': 'Dólar'},
-            color_continuous_scale=px.colors.sequential.Viridis
+            color_continuous_scale=px.colors.sequential.Viridis,
+            
         )
+        fig2.update_traces(width=0.6)
         fig2.update_layout(title_x=0.25, xaxis_title='País', yaxis_title='Média Salarial (USD)')
         st.plotly_chart(fig2, use_container_width=True)
 
