@@ -1,0 +1,121 @@
+pais,iso3,mes,salario_medio_usd,salario_medio_moeda_local,moeda_local
+Brasil,BRA,Jan,2300,11500,BRL
+Brasil,BRA,Fev,2320,11600,BRL
+Brasil,BRA,Mar,2350,11750,BRL
+Brasil,BRA,Abr,2370,11850,BRL
+Brasil,BRA,Mai,2400,12000,BRL
+Brasil,BRA,Jun,2420,12100,BRL
+Brasil,BRA,Jul,2450,12250,BRL
+Brasil,BRA,Ago,2470,12350,BRL
+Brasil,BRA,Set,2500,12500,BRL
+Brasil,BRA,Out,2520,12600,BRL
+Brasil,BRA,Nov,2550,12750,BRL
+Brasil,BRA,Dez,2580,12900,BRL
+Estados Unidos,USA,Jan,7900,7900,USD
+Estados Unidos,USA,Fev,7950,7950,USD
+Estados Unidos,USA,Mar,8000,8000,USD
+Estados Unidos,USA,Abr,8050,8050,USD
+Estados Unidos,USA,Mai,8100,8100,USD
+Estados Unidos,USA,Jun,8150,8150,USD
+Estados Unidos,USA,Jul,8200,8200,USD
+Estados Unidos,USA,Ago,8250,8250,USD
+Estados Unidos,USA,Set,8300,8300,USD
+Estados Unidos,USA,Out,8350,8350,USD
+Estados Unidos,USA,Nov,8400,8400,USD
+Estados Unidos,USA,Dez,8450,8450,USD
+Reino Unido,GBR,Jan,6000,4750,GBP
+Reino Unido,GBR,Fev,6020,4770,GBP
+Reino Unido,GBR,Mar,6050,4800,GBP
+Reino Unido,GBR,Abr,6070,4820,GBP
+Reino Unido,GBR,Mai,6100,4850,GBP
+Reino Unido,GBR,Jun,6120,4870,GBP
+Reino Unido,GBR,Jul,6150,4900,GBP
+Reino Unido,GBR,Ago,6170,4920,GBP
+Reino Unido,GBR,Set,6200,4950,GBP
+Reino Unido,GBR,Out,6220,4970,GBP
+Reino Unido,GBR,Nov,6250,5000,GBP
+Reino Unido,GBR,Dez,6280,5030,GBP
+Alemanha,DEU,Jan,6100,5600,EUR
+Alemanha,DEU,Fev,6120,5620,EUR
+Alemanha,DEU,Mar,6150,5650,EUR
+Alemanha,DEU,Abr,6180,5680,EUR
+Alemanha,DEU,Mai,6200,5700,EUR
+Alemanha,DEU,Jun,6230,5730,EUR
+Alemanha,DEU,Jul,6250,5750,EUR
+Alemanha,DEU,Ago,6280,5780,EUR
+Alemanha,DEU,Set,6300,5800,EUR
+Alemanha,DEU,Out,6330,5830,EUR
+Alemanha,DEU,Nov,6350,5850,EUR
+Alemanha,DEU,Dez,6380,5880,EUR
+Canadá,CAN,Jan,7100,9400,CAD
+Canadá,CAN,Fev,7120,9420,CAD
+Canadá,CAN,Mar,7150,9450,CAD
+Canadá,CAN,Abr,7170,9470,CAD
+Canadá,CAN,Mai,7200,9500,CAD
+Canadá,CAN,Jun,7220,9520,CAD
+Canadá,CAN,Jul,7250,9550,CAD
+Canadá,CAN,Ago,7270,9570,CAD
+Canadá,CAN,Set,7300,9600,CAD
+Canadá,CAN,Out,7320,9620,CAD
+Canadá,CAN,Nov,7350,9650,CAD
+Canadá,CAN,Dez,7380,9680,CAD
+Austrália,AUS,Jan,7500,112500,AUD
+Austrália,AUS,Fev,7520,112800,AUD
+Austrália,AUS,Mar,7550,113250,AUD
+Austrália,AUS,Abr,7570,113550,AUD
+Austrália,AUS,Mai,7600,114000,AUD
+Austrália,AUS,Jun,7620,114300,AUD
+Austrália,AUS,Jul,7650,114750,AUD
+Austrália,AUS,Ago,7670,115050,AUD
+Austrália,AUS,Set,7700,115500,AUD
+Austrália,AUS,Out,7720,115800,AUD
+Austrália,AUS,Nov,7750,116250,AUD
+Austrália,AUS,Dez,7780,116700,AUD
+Índia,IND,Jan,1700,141000,INR
+Índia,IND,Fev,1720,142500,INR
+Índia,IND,Mar,1750,144500,INR
+Índia,IND,Abr,1770,146000,INR
+Índia,IND,Mai,1800,148000,INR
+Índia,IND,Jun,1820,149500,INR
+Índia,IND,Jul,1850,151500,INR
+Índia,IND,Ago,1870,153000,INR
+Índia,IND,Set,1900,155000,INR
+Índia,IND,Out,1920,156500,INR
+Índia,IND,Nov,1950,158500,INR
+Índia,IND,Dez,1980,160500,INR
+Japão,JPN,Jan,5400,790000,JPY
+Japão,JPN,Fev,5420,793000,JPY
+Japão,JPN,Mar,5450,797000,JPY
+Japão,JPN,Abr,5470,800000,JPY
+Japão,JPN,Mai,5500,804000,JPY
+Japão,JPN,Jun,5520,807000,JPY
+Japão,JPN,Jul,5550,811000,JPY
+Japão,JPN,Ago,5570,814000,JPY
+Japão,JPN,Set,5600,818000,JPY
+Japão,JPN,Out,5620,821000,JPY
+Japão,JPN,Nov,5650,825000,JPY
+Japão,JPN,Dez,5680,828000,JPY
+Emirados Árabes Unidos,ARE,Jan,5830,214000,AED
+Emirados Árabes Unidos,ARE,Fev,5850,215000,AED
+Emirados Árabes Unidos,ARE,Mar,5880,216000,AED
+Emirados Árabes Unidos,ARE,Abr,5900,217000,AED
+Emirados Árabes Unidos,ARE,Mai,5930,218000,AED
+Emirados Árabes Unidos,ARE,Jun,5950,219000,AED
+Emirados Árabes Unidos,ARE,Jul,5980,220000,AED
+Emirados Árabes Unidos,ARE,Ago,6000,221000,AED
+Emirados Árabes Unidos,ARE,Set,6030,222000,AED
+Emirados Árabes Unidos,ARE,Out,6050,223000,AED
+Emirados Árabes Unidos,ARE,Nov,6080,224000,AED
+Emirados Árabes Unidos,ARE,Dez,6100,225000,AED
+África do Sul,ZAF,Jan,3330,61600,ZAR
+África do Sul,ZAF,Fev,3350,62000,ZAR
+África do Sul,ZAF,Mar,3380,62500,ZAR
+África do Sul,ZAF,Abr,3400,63000,ZAR
+África do Sul,ZAF,Mai,3430,63500,ZAR
+África do Sul,ZAF,Jun,3450,64000,ZAR
+África do Sul,ZAF,Jul,3480,64500,ZAR
+África do Sul,ZAF,Ago,3500,65000,ZAR
+África do Sul,ZAF,Set,3530,65500,ZAR
+África do Sul,ZAF,Out,3550,66000,ZAR
+África do Sul,ZAF,Nov,3580,66500,ZAR
+África do Sul,ZAF,Dez,3600,67000,ZAR
