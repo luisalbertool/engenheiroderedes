@@ -124,11 +124,12 @@ with col_graf2:
             labels= {'media_anual': 'Média Salarial (USD)', 'pais': 'País', 'salario_medio_usd': 'Dólar'},
             color_continuous_scale=px.colors.sequential.Viridis
         )
-        fig2.update_layout(title_x=0.1, xaxis_title='País', yaxis_title='Média Salarial (USD)')
+        fig2.update_layout(title_x=0.25, xaxis_title='País', yaxis_title='Média Salarial (USD)')
         st.plotly_chart(fig2, use_container_width=True)
 
     else:
         st.write('Nenhum dado disponível para o gráfico de média salarial anual por país e moeda local.')
+
 
 
 
